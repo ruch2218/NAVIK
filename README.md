@@ -16,5 +16,10 @@ User → API Gateway → AWS Lambda → AI Services → Response
 - Backend: AWS API Gateway, Lambda, DynamoDB, S3
 - AI: Transcribe, Polly, Translate, Lex / SageMaker
 
+  ## Benefits
+  - Scalable
+  - Serverless
+  - Multilingual support
+
 ## Hackathon
 AI for Bharat Hackathon
